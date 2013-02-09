@@ -1,0 +1,2 @@
+serviceClass: com.kinnisvara.client.GreetingService
+path: F293177C1B26DF849733734A360670EE.gwt.rpc
